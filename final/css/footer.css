@@ -1,0 +1,32 @@
+
+footer {
+  margin-top: auto;
+  text-align: center;
+  padding: 10px 0;
+  background-color: #D81B60; /* Deep Pink */
+  color: white;
+}
+
+.team {
+  margin-top: 10px;
+}
+
+.team h4 {
+  margin: 0;
+}
+
+.team ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.team li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.team-member {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s;
+}
